@@ -3,9 +3,9 @@
 <br />
 <div align="center">
   <a href="https://github.com/MeiqinatUVA/Precalculus">
-    <img src="images/logo2.jpeg" alt="Logo" width="330" height="200">
-      <img src="images/logo.png" alt="Logo1" width="320" height="180">
-      <img src="images/logo1.jpeg" alt="Logo2" width="325" height="200">
+    <img src="images/logo2.jpeg" alt="Logo" width="300" height="200">
+      <img src="images/logo.png" alt="Logo1" width="300" height="180">
+      <img src="images/logo1.jpeg" alt="Logo2" width="305" height="200">
   </a>
 
   <h3 align="center">Produced by APMA Faculty</h3>
