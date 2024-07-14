@@ -3,8 +3,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/MeiqinatUVA/Precalculus">
-    <img src="images/logo2.jpeg" alt="Logo" width="2500" height="180">
-      <img src="images/logo.png" alt="Logo1" width="2500" height="160">
+    <img src="images/logo2.jpeg" alt="Logo" width="250" height="180">
+      <img src="images/logo.png" alt="Logo1" width="250" height="160">
       <img src="images/logo1.jpeg" alt="Logo2" width="250" height="180">
   </a>
 
