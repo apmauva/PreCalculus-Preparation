@@ -25,7 +25,7 @@
 
  <li> <a href="#limit-at-discontinuity-lc">Limit at Discontinuity (LC)</a> </li> 
  <li><a href="#limit-at-infinity-lf">Limit at Infinity (LF)</a></li>
-<li><a href="#graph-exponential-funcitons-ge">Graph Exponential Functions (GE)</a></li>  
+<li><a href="#graph-exponential-functions-ge">Graph Exponential Functions (GE)</a></li>  
  <li><a href="#graph-logarithmic-functions-gl">Graph Logarithmic Functions (GL)</a></li>
 
   </ol>
