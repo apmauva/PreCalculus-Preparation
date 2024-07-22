@@ -27,8 +27,7 @@
     </li>
  <li><a href="#Limit at Infinity (Learning Target LF)">Limit at Infinity (LF)</a></li>
  <li><a href="#Graph Logarithmic Functions (Learning Target GL)">Graph Logarithmic Functions (GL)</a></li>
-
-        
+ <li><a href="#Graph Exponential Functions (Learning Target GE)">Graph Exponential Functions (GE)</a></li>        
   </ol>
 </details>
 
