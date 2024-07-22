@@ -1,0 +1,312 @@
+\documentclass[12pt,
+%answers
+]{exam}
+\usepackage[margin=.8 in]{geometry} 
+\usepackage{hyperref,enumerate}
+\usepackage{amsmath,graphicx, color,comment,amssymb,multicol,cancel}
+\newcommand{\tit}{\textit}
+\newcommand{\tbf}{\textbf}
+\newcommand{\notimplies}{%
+  \mathrel{{\ooalign{\hidewidth$\not\phantom{=}$\hidewidth\cr$\implies$}}}}
+\newcommand{\ds}{\displaystyle}
+\newcommand{\dstyle}{\ds}
+\newcommand{\lt}{\left}
+\newcommand{\rt}{\right}
+\newcommand{\qtq}[1] {\quad \text{#1}\quad}
+\newcommand{\Lt}[1]{\mathcal{L} \lt\{ {#1} \rt\}}
+\newcommand{\Lti}[1]{\mathcal{L}^{-1} \lt\{ {#1} \rt\}}
+\renewcommand{\v}[1]{\vec{\mathbf{#1}}}
+\newcommand{\mb}{\mathbf}
+\newcommand{\inverse}[1]{ {\mb{#1}}^{-1} }
+\makeatletter
+\renewcommand*\env@matrix[1][*\c@MaxMatrixCols c]{%
+  \hskip -\arraycolsep
+  \let\@ifnextchar\new@ifnextchar
+  \array{#1}}
+\makeatother
+\renewcommand{\v}[1]{\vec{\mathbf{#1}}}
+\newcommand{\derv}[1]{\vec{\mathbf{#1}}\,' }
+
+
+\newcounter{quest}
+
+
+  
+% ---- Change the information below ----------------------------------------------------------------------------
+\newcommand{\worksheetdate}{ 2024}
+%\newcommand{\worksheetdue}{Wednesday, August 24, 2016}
+\newcommand{\coursetitle}{}
+\newcommand{\worksheettitle}{Limits at Infinity}
+\newcommand{\worksheetsection}{}
+% ---- Change the information above ----------------------------------------------------------------------------
+
+
+%%% adjust space above and below displaymath
+\abovedisplayshortskip=0.5em
+\belowdisplayshortskip=0.75em
+\abovedisplayskip=0.5em
+\belowdisplayskip=0.75em
+%%% adjust space above and below displaymath
+
+
+\pagestyle{head}
+\runningheadrule \firstpageheader
+{\fbox{\parbox{.5\textwidth}{
+\textbf{\small Your Name: }
+\\ \\ \\ 
+%\textbf{Your Name:}
+\\
+}}}
+{}
+{\parbox{1.1in}{\fbox{ \parbox{1in}{ \textbf{\small ID \#:  \\  \\ \\ } }}
+%\fbox{ \parbox{1in}{ \textbf{\small Section:  \\  } }}
+ }}
+\runningheader
+{{}}%
+{\worksheetsection  Page \thepage\ of \numpages}
+{\textbf{} \hphantom{\worksheetdate}}
+
+\begin{document}
+
+\newgeometry{top=1.3in, right =0.8in, left=0.8in, bottom =0.8in}
+
+\begin{center}	
+{\bf {\coursetitle\,  Worksheet: \worksheettitle} 
+	\\ 
+	\textbf{}
+	\hphantom{\worksheetdate}
+%	\worksheetdate
+} 		
+	\end{center}
+
+
+
+\noindent \textbf{Note: for all the problems, identify the limit  as a number, $-\infty$, $\infty$ or DNE (does not exist)}
+\vspace{0.2cm}
+
+\begin{questions}
+
+%%% adjust space above and below displaymath
+\abovedisplayshortskip=0.5em
+\belowdisplayshortskip=0.75em
+\abovedisplayskip=0.5em
+\belowdisplayskip=0.75em
+%%% adjust space above and below displaymath
+
+\question
+  Please keep in mind the list of functions in order of their rate of growth -- quickest to slowest: 
+  \newline
+  
+    \textbf{Factorial}( x! ),\hspace{0.1cm} \textbf{ Exponential } ( $4^x$, $e^x$ ),\hspace{0.1cm} \textbf{Algebraic} ($x^4$, $x^{0.5}$),\hspace{0.1cm}  \textbf{Logarithm} ( $log_2 x$, $ln x$ )
+
+\vspace{1cm}
+
+
+Then find the following limits quickly without showing any work:
+\begin{parts}
+	\begin{multicols}{3}
+		\part $\lim_{x\rightarrow \infty} \frac{x^3}{x!}= $
+		\vspace{1cm}
+		
+					
+		\part $\lim_{x\rightarrow \infty} \frac{\sqrt[3]{x^4+2x^3+1}}{ln x+3}= $
+		\vspace{1cm}
+		
+		\part $\lim_{x\rightarrow \infty} \frac{x^{10}+4x^7+10}{32x^{12}+10}= $
+				\vspace{1cm}
+				
+					\part $\lim_{x\rightarrow \infty} \frac{5x+1}{x^2-3x+4}$	
+							\vspace{1cm}
+							
+						\part  $\lim_{x\rightarrow -\infty} \frac{2^x}{x^2}$
+						
+					\vspace{1cm}
+					
+						\part$\lim_{x\rightarrow \infty} \frac{2^x}{x^2}$
+		
+		\columnbreak
+			\part $\lim_{n\rightarrow \infty} \frac{5^n+2}{n^9+100}= $
+					\vspace{1cm}
+					
+					\part $\lim_{n\rightarrow \infty} \frac{n^4+10 ln n}{4\sqrt{n^8+3n+100}}= $
+					\vspace{1cm}
+					
+					\part $\lim_{n\rightarrow \infty} \frac{-n^4+3n^2}{19n^3+3n^2-10}= $
+					\vspace{1cm}
+					
+			\part  $\lim_{x\rightarrow -\infty} \frac{x^{120}+20}{-x^{100}+e^x}=$
+			\vspace{1cm}
+			
+					\part  $\lim_{n\rightarrow -\infty} \frac{5^n+n^2}{-e^n+1}=$
+			
+				\vspace{1cm}
+					
+			\part  $\lim_{x\rightarrow -\infty} \frac{2x^3-2x+5}{13x^3-5x+13}=$
+
+	
+
+					\columnbreak
+					
+						\part $\lim_{x\rightarrow \infty} \frac{x^8+ln x}{3 x^8+2}= $
+								\vspace{1cm}
+								
+									\part $\lim_{x\rightarrow \infty} \frac{x^{10}+2x^2+10}{32x^6+12}= $
+									\vspace{1cm}
+					
+					\part $\lim_{n\rightarrow \infty} \frac{n^5-10n^7+ ln n}{n^3+8n^7}= $
+\vspace{1cm}
+
+			\part $\lim_{x\rightarrow \infty} \frac{e^x}{x^3} $
+		\vspace{1cm}
+		
+						\part $\lim_{x\rightarrow -\infty} (-3x^3-4x+5)$
+		\vspace{1cm}
+
+
+
+					\part $\lim_{n\rightarrow \infty} \frac{n^5-10n^7+ ln n}{n^3+8n^7}= $
+					\end{multicols}
+		\end{parts}
+		
+		\vspace{2cm}
+
+\question Practice some common limits without showing the work:
+\begin{parts}
+\begin{multicols}{3}
+	\part $\lim_{x\rightarrow -\infty} e^x=$
+			\vspace{0.8cm}
+			
+				\part $\lim_{x\rightarrow 0 }e^x=$ 
+					\vspace{0.8cm}
+					
+		\part $\lim_{x\rightarrow -\infty} x lnx$
+		
+		
+			\columnbreak
+			
+			\part $\lim_{x\rightarrow -\infty} e^{-x}=$
+					\vspace{0.8cm}
+					
+				\part $\lim_{x\rightarrow 0+} e^{\frac{1}{x}}=$
+						\vspace{0.8cm}
+						
+				\part $\lim_{x\rightarrow 0-} e^{\frac{1}{x}}=$
+						\columnbreak
+						
+\part $\lim_{x\rightarrow -\infty} e^{\frac{1}{x}}=$
+	\vspace{0.8cm}
+	
+	\part $\lim_{x\rightarrow \infty} e^{\frac{1}{x}}=$
+		\vspace{0.8cm}
+
+
+		\part $\lim_{x\rightarrow \infty} \frac{1}{e^{-x}}=$
+		\end{multicols}
+		\end{parts}
+\newpage
+
+\question Practice more common limits without showing the work:
+\begin{parts}
+\begin{multicols}{3}
+	\part $\lim_{x\rightarrow \infty} lnx=$
+			\vspace{0.8cm}
+			
+				\part $\lim_{x\rightarrow 0^+ }lnx=$ 
+					\vspace{0.8cm}
+					
+		\part $\lim_{x\rightarrow -\infty} (e^{3x}-e^{2x})=$
+				\vspace{0.8cm}
+						\part $\lim_{x\rightarrow \infty}\sin( \frac{x^2}{2x^2+x})=$
+				
+		
+			\columnbreak
+				\part $\lim_{x\rightarrow \infty}\sin x =$
+						\vspace{0.8cm}
+						
+			\part $\lim_{x\rightarrow \infty}(\sin x) e^{-x}=$
+					\vspace{0.8cm}
+					
+		
+			\part $\lim_{x\rightarrow \infty}x \sin x =$
+			
+						\vspace{0.8cm}
+						
+	\part $\lim_{x\rightarrow \infty}\frac{1}{x} \sin x =$
+						\columnbreak
+						
+						
+						
+	\part $\lim_{x\rightarrow \infty}\sin (\frac{1}{x})=$
+	\vspace{0.8cm}
+	
+\part $\lim_{x\rightarrow \infty}x \ln \frac{1}{x}=$
+		\vspace{0.8cm}
+
+\part $\lim_{x\rightarrow -\infty}x e^{\frac{1}{x}}=$
+		\vspace{0.8cm}
+
+
+ \part $\lim_{x\rightarrow 0^- }x e^{\frac{1}{x}}=$
+		\end{multicols}
+		\end{parts}
+
+
+\vfill
+
+
+
+\question 
+
+Show all you work for the following questions (limits at discontinuity and infinity)
+\begin{parts}
+	\begin{multicols}{2}
+		\part $\lim_{x\rightarrow 0} \frac{sin (3x)}{4x} $
+		\vspace{3cm}
+		
+		
+
+			
+				\part $\lim_{x\rightarrow \infty} x^{\frac{1}{x}}$
+				\vspace{3cm}
+				
+				
+
+				
+		\part $\lim_{x\rightarrow \infty}( \frac{1}{x})^{\frac{1}{x}}$
+					
+			
+	
+					
+					
+					
+					
+					
+		\columnbreak
+		\part $\lim_{x\rightarrow 1} \frac{5x^4-4x^2-1}{10-x-9x^3} $
+		\vspace{3cm}
+		
+		
+
+			
+				\part $\lim_{x\rightarrow -1} \frac{\sqrt{x+4}-3}{x+1} $
+					\vspace{3cm}
+		
+				
+						\part $\lim_{x\rightarrow \infty}( \frac{x}{x+1})^x$
+	\end{multicols}
+\end{parts}
+\vfill
+
+
+	
+\vfill
+
+
+\end{questions}
+\end{document}
+
+
+
+
+
+
