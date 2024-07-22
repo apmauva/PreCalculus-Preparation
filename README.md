@@ -44,7 +44,7 @@
 ### Limit at Infinity-LF
 * <a href="https://MeiqinatUVA.github.io/PreCalculus-Preparation/notes/notelf.pdf">LF Note</a>
 * <a href="https://MeiqinatUVA.github.io/PreCalculus-Preparation/worksheets/wslf.pdf">LF Worksheet</a>
-* <a href="https://MeiqinatUVA.github.io/PreCalculus-Preparation/worksheets/solutions-wslf.pdf">LC Worksheet Solutions</a>
+* <a href="https://MeiqinatUVA.github.io/PreCalculus-Preparation/worksheets/solutions-wslf.pdf">LF Worksheet Solutions</a>
 
 
 <!-- Graph Exponential Functions (Learning Target GE) -->
