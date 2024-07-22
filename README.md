@@ -57,4 +57,6 @@
 
 * <a href="https://MeiqinatUVA.github.io/PreCalculus-Preparation/worksheets/wsgl.pdf">GL Worksheet</a>
 
+
+<!-- Acknowledgments -->
 ## Acknowledgments
