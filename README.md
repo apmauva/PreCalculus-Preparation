@@ -24,9 +24,9 @@
   <ol>
 
  <li> <a href="#limit-at-discontinuity-lc">Limit at Discontinuity (LC)</a> </li> 
- <li><a href="#limit-at-infinity-learning-target-lf">Limit at Infinity (LF)</a></li>
-<li><a href="#graph-exponential-functions-learning-target-ge">Graph Exponential Functions (GE)</a></li>  
- <li><a href="#graph-logarithmic-functions-learning-target-gl">Graph Logarithmic Functions (GL)</a></li>
+ <li><a href="#limit-at-infinity-lf">Limit at Infinity (LF)</a></li>
+<li><a href="#graph-exponential-funcitons-ge">Graph Exponential Functions (GE)</a></li>  
+ <li><a href="#graph-logarithmic-functions-gl">Graph Logarithmic Functions (GL)</a></li>
 
   </ol>
 </details>
@@ -41,17 +41,17 @@
 
 
 <!-- Limit at Infinity (Learning Target LF) -->
-### Limit at Infinity-Learning Target LF
+### Limit at Infinity-LF
 * <a href="https://MeiqinatUVA.github.io/PreCalculus-Preparation/notes/notelf.pdf">LF Note</a>
 * <a href="https://MeiqinatUVA.github.io/PreCalculus-Preparation/worksheets/wslf.pdf">LF Worksheet</a>
 
 <!-- Graph Exponential Functions (Learning Target GE) -->
-### Graph Exponential Functions-Learning Target GE
+### Graph Exponential Functions-GE
 * <a href="https://MeiqinatUVA.github.io/PreCalculus-Preparation/notes/notege.pdf">GE Note</a>
 * <a href="https://MeiqinatUVA.github.io/PreCalculus-Preparation/worksheets/wsge.pdf">GE Worksheet</a>
 
 <!-- Graph Logarithmic Functions (Learning Target GL) -->
-### Graph Logarithmic Functions-Learning Target GL
+### Graph Logarithmic Functions-GL
 * <a href="https://MeiqinatUVA.github.io/PreCalculus-Preparation/notes/notegl.pdf">GL Note</a>
    [GL Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4f00887b-3e70-4ea6-be84-afef011050fe)
 
