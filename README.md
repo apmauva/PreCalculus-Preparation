@@ -22,15 +22,18 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
+
     <li>
       <a href="#limit-at-discontinuity-learning-target-lc">Limit at Discontinuity (LC)</a>
     </li>
  <li><a href="#limit-at-infinity-learning-target-lf">Limit at Infinity (LF)</a></li>
 <li><a href="#graph-exponential-functions-learning-target-ge">Graph Exponential Functions (GE)</a></li>  
  <li><a href="#graph-logarithmic-functions-learning-target-gl">Graph Logarithmic Functions (GL)</a></li>
-       
+ <li><a href="#achnowledgements">Acknowledgments</a></li>
   </ol>
 </details>
+
+
 
 
 <!-- Limit at Discontinuity (Learning Target LC) -->
@@ -56,4 +59,4 @@
 
 * <a href="https://MeiqinatUVA.github.io/PreCalculus-Preparation/worksheets/wsgl.pdf">GL Worksheet</a>
 
-
+## Acknowledgments
