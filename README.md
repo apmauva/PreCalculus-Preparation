@@ -35,8 +35,8 @@
 
 <!-- Limit at Discontinuity (Learning Target LC) -->
 ## Limit at Discontinuity - Learning Target LC
-* <a href="https://MeiqinatUVA.github.io/Notes/PreCalculus_Limit at Discontinuity_Slides.pdf">LC Note</a>
-* <a href="https://MeiqinatUVA.github.io/PreCal Worksheets/Worksheet_limit at discontinuity.pdf">LC Worksheet</a>
+* <a href="https://MeiqinatUVA.github.io/notes/notelc.pdf">LC Note</a>
+* <a href="https://MeiqinatUVA.github.io/worksheets/wslc.pdf">LC Worksheet</a>
 
 
 <!-- Limit at Infinity (Learning Target LF) -->
