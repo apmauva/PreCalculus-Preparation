@@ -8,7 +8,7 @@
       <img src="images/logo1.jpeg" alt="Logo2" width="300" height="180">
   </a>
 
-  <h3 align="center">Produced by <a href="https://engineering.virginia.edu/offices-programs/applied-mathematics)">APMA </a> Faculty</h3>
+  <h3 align="center">Produced by <a href="https://engineering.virginia.edu/offices-programs/applied-mathematics">APMA </a> Faculty</h3>
 
   <p align="center">
     For your preparation to pass PreCalculus Assessment!
