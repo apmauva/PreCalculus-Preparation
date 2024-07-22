@@ -32,20 +32,23 @@
 </details>
 
 
+<!-- Limit at Discontinuity (Learning Target LC) -->
 ## Limit at Discontinuity (Learning Target LC)
 * <a href="https://MeiqinatUVA.github.io/Notes/PreCalculus_Limit at Discontinuity_Slides.pdf">LC Note</a>
 * <a href="https://MeiqinatUVA.github.io/PreCal Worksheets/Worksheet_limit at discontinuity.pdf">LC Worksheet</a>
 
 
+<!-- Limit at Infinity (Learning Target LF) -->
 ## Limit at Infinity (Learning Target LF)
 * <a href="https://MeiqinatUVA.github.io/Notes/PreCalculus_Limit-at-Infinity_Slides.pdf">LF Note</a>
 * <a href="https://MeiqinatUVA.github.io/PreCal Worksheets/Worksheet_limit at infinity.pdf">LF Worksheet</a>
 
+<!-- Graph Exponential Functions (Learning Target GE) -->
 ## Graph Exponential Functions (Learning Target GE)
 * <a href="https://MeiqinatUVA.github.io/Notes/PreCalculus_Graph-Exponential-Functions_Slides.pdf">GE Note</a>
 * <a href="https://MeiqinatUVA.github.io/PreCal Worksheets/Worksheet_Graphs of exponential functions.pdf">GE Worksheet</a>
 
-
+<!-- Graph Logarithmic Functions (Learning Target GL) -->
 ## Graph Logarithmic Functions (Learning Target GL)
 * <a href="https://MeiqinatUVA.github.io/Notes/PreCalculus_Logarithmic-Functions_Slides.pdf">GL Note</a>
 
