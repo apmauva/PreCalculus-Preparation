@@ -20,7 +20,7 @@
 
 <!-- List of Learning Targets -->
 <details>
- <h3   <summary>List of Learning Targets  </summary>  </h3>
+ <summary>List of Learning Targets  </summary>  
   <ol>
 
  <li> <a href="#limit-at-discontinuity-lc">Limit at Discontinuity (LC)</a> </li> 
