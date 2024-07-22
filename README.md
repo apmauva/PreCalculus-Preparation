@@ -38,13 +38,13 @@
 ### Limit at Discontinuity-LC
 * <a href="https://MeiqinatUVA.github.io/PreCalculus-Preparation/notes/notelc.pdf">LC Note</a>
 * <a href="https://MeiqinatUVA.github.io/PreCalculus-Preparation/worksheets/wslc.pdf">LC Worksheet</a>
-* <a href="https://MeiqinatUVA.github.io/PreCalculus-Preparation/worksheets/solutions-wslc.pdf">LC Worksheet</a>
+* <a href="https://MeiqinatUVA.github.io/PreCalculus-Preparation/worksheets/solutions-wslc.pdf">LC Worksheet Solutions</a>
 
 <!-- Limit at Infinity (Learning Target LF) -->
 ### Limit at Infinity-LF
 * <a href="https://MeiqinatUVA.github.io/PreCalculus-Preparation/notes/notelf.pdf">LF Note</a>
 * <a href="https://MeiqinatUVA.github.io/PreCalculus-Preparation/worksheets/wslf.pdf">LF Worksheet</a>
-* <a href="https://MeiqinatUVA.github.io/PreCalculus-Preparation/worksheets/solutions-wslf.pdf">LC Worksheet</a>
+* <a href="https://MeiqinatUVA.github.io/PreCalculus-Preparation/worksheets/solutions-wslf.pdf">LC Worksheet Solutions</a>
 
 
 <!-- Graph Exponential Functions (Learning Target GE) -->
