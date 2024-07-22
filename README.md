@@ -41,8 +41,8 @@
 
 <!-- Limit at Infinity (Learning Target LF) -->
 ## Limit at Infinity - Learning Target LF
-* <a href="https://MeiqinatUVA.github.io/Notes/PreCalculus_Limit-at-Infinity_Slides.pdf">LF Note</a>
-* <a href="https://MeiqinatUVA.github.io/PreCal Worksheets/Worksheet_limit at infinity.pdf">LF Worksheet</a>
+* <a href="https://MeiqinatUVA.github.io/notes/notelf.pdf">LF Note</a>
+* <a href="https://MeiqinatUVA.github.io/worksheets/wslf.pdf">LF Worksheet</a>
 
 <!-- Graph Exponential Functions (Learning Target GE) -->
 ## Graph Exponential Functions - Learning Target GE
