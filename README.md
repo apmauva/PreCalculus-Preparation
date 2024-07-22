@@ -45,7 +45,9 @@
 
 
 ### Limit at Discontinuity (Learning Target LC)
-
+* <a href="https://MeiqinatUVA.github.io/Notes/PreCalculus_Limit at Discontinuity_Slides.pdf">LC Note</a>
+* <a href="https://MeiqinatUVA.github.io/PreCal Worksheets/Worksheet_limit at discontinuity.pdf">LC Worksheet</a>
+* <a href="https://MeiqinatUVA.github.io/Notes/PreCalculus_Limit at Discontinuity_Slides.pdf">GL Note</a>
 
 
 ### Graph Logarithmic Functions (Learning Target GL)
