@@ -23,7 +23,7 @@
   <summary>Table of Contents</summary>
   <ol>
 
- <li> <a href="#limit-at-discontinuity">Limit at Discontinuity (LC)</a> </li> 
+ <li> <a href="#limit-at-discontinuity-(lc)">Limit at Discontinuity (LC)</a> </li> 
  <li><a href="#limit-at-infinity-learning-target-lf">Limit at Infinity (LF)</a></li>
 <li><a href="#graph-exponential-functions-learning-target-ge">Graph Exponential Functions (GE)</a></li>  
  <li><a href="#graph-logarithmic-functions-learning-target-gl">Graph Logarithmic Functions (GL)</a></li>
@@ -57,7 +57,7 @@
 
 
 <!-- Limit at Discontinuity (Learning Target LC) -->
-### Limit at Discontinuity 
+### Limit at Discontinuity (LC)
 * <a href="https://MeiqinatUVA.github.io/PreCalculus-Preparation/notes/notelc.pdf">LC Note</a>
 * <a href="https://MeiqinatUVA.github.io/PreCalculus-Preparation/worksheets/wslc.pdf">LC Worksheet</a>
 
