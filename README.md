@@ -25,9 +25,9 @@
     <li>
       <a href="#Limit at Discontinuity (Learning Target LC)">Graph Logarithmic Functions (GL)</a>
     </li>
+ <li><a href="#Limit at Infinity (Learning Target LF)">Limit at Infinity (LF)</a></li>
+ <li><a href="#Graph Logarithmic Functions (Learning Target GL)">Graph Logarithmic Functions (GL)</a></li>
 
-    
-  <li><a href="#Limit at Infinity (Learning Target LF)">Limit at Infinity (LF)</a></li>
         
   </ol>
 </details>
