@@ -35,14 +35,14 @@
 
 <!-- Limit at Discontinuity (Learning Target LC) -->
 ## Limit at Discontinuity - Learning Target LC
-* <a href="https://MeiqinatUVA.github.io/notes/notelc.pdf">LC Note</a>
-* <a href="https://MeiqinatUVA.github.io/worksheets/wslc.pdf">LC Worksheet</a>
+* <a href="https://MeiqinatUVA.github.io/PreCalculus-Preparation/notes/notelc.pdf">LC Note</a>
+* <a href="https://MeiqinatUVA.github.io/PreCalculus-Preparation/worksheets/wslc.pdf">LC Worksheet</a>
 
 
 <!-- Limit at Infinity (Learning Target LF) -->
 ## Limit at Infinity - Learning Target LF
-* <a href="https://MeiqinatUVA.github.io/notes/notelf.pdf">LF Note</a>
-* <a href="https://MeiqinatUVA.github.io/worksheets/wslf.pdf">LF Worksheet</a>
+* <a href="https://MeiqinatUVA.github.io/PreCalculus-Preparation/notes/notelf.pdf">LF Note</a>
+* <a href="https://MeiqinatUVA.github.io/PreCalculus-Preparation/worksheets/wslf.pdf">LF Worksheet</a>
 
 <!-- Graph Exponential Functions (Learning Target GE) -->
 ## Graph Exponential Functions - Learning Target GE
