@@ -23,23 +23,12 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#Graph Logarithmic Functions (Learning Target GL)">Graph Logarithmic Functions (GL)</a>
+      <a href="#Limit at Discontinuity (Learning Target LC)">Graph Logarithmic Functions (GL)</a>
     </li>
 
     
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  <li><a href="#Limit at Infinity (Learning Target LF)">Limit at Infinity (LF)</a></li>
+        
   </ol>
 </details>
 
@@ -47,7 +36,11 @@
 ### Limit at Discontinuity (Learning Target LC)
 * <a href="https://MeiqinatUVA.github.io/Notes/PreCalculus_Limit at Discontinuity_Slides.pdf">LC Note</a>
 * <a href="https://MeiqinatUVA.github.io/PreCal Worksheets/Worksheet_limit at discontinuity.pdf">LC Worksheet</a>
-* <a href="https://MeiqinatUVA.github.io/Notes/PreCalculus_Limit at Discontinuity_Slides.pdf">GL Note</a>
+
+
+### Limit at Infinity (Learning Target LF)
+* <a href="https://MeiqinatUVA.github.io/Notes/PreCalculus_Limit-at-Infinity_Slides.pdf">LF Note</a>
+* <a href="https://MeiqinatUVA.github.io/PreCal Worksheets/Worksheet_limit at infinity.pdf">LF Worksheet</a>
 
 
 ### Graph Logarithmic Functions (Learning Target GL)
