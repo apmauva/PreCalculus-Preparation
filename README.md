@@ -24,7 +24,7 @@
   <ol>
 
  <li> <a href="#limit-at-discontinuity-lc">Limit at Discontinuity (LC)</a> </li> 
- <li><a href="#limit-at-infinity-lf">Limit at Infinity (LF)</a></li>
+ <li><a href="#limit-to-infinity-lf">Limit at Infinity (LF)</a></li>
 <li><a href="#graph-exponential-functions-ge">Graph Exponential Functions (GE)</a></li>  
  <li><a href="#graph-logarithmic-functions-gl">Graph Logarithmic Functions (GL)</a></li>
 
@@ -41,7 +41,7 @@
 * <a href="https://MeiqinatUVA.github.io/PreCalculus-Preparation/worksheets/solutions-wslc.pdf">LC Worksheet Solutions</a>
 
 <!-- Limit at Infinity (Learning Target LF) -->
-### Limit at Infinity-LF
+### Limit to Infinity-LF
 * <a href="https://MeiqinatUVA.github.io/PreCalculus-Preparation/notes/notelf.pdf">LF Note</a>
 * <a href="https://MeiqinatUVA.github.io/PreCalculus-Preparation/worksheets/wslf.pdf">LF Worksheet</a>
 * <a href="https://MeiqinatUVA.github.io/PreCalculus-Preparation/worksheets/solutions-wslf.pdf">LF Worksheet Solutions</a>
