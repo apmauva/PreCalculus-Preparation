@@ -55,7 +55,7 @@
 <!-- Graph Logarithmic Functions (Learning Target GL) -->
 ### Graph Logarithmic Functions-GL
 * <a href="https://MeiqinatUVA.github.io/PreCalculus-Preparation/notes/notegl.pdf">GL Note</a>
-   [GL Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4f00887b-3e70-4ea6-be84-afef011050fe)
+   [ Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4f00887b-3e70-4ea6-be84-afef011050fe)
 
 * <a href="https://MeiqinatUVA.github.io/PreCalculus-Preparation/worksheets/wsgl.pdf">GL Worksheet</a>
 
