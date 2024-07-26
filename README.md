@@ -60,7 +60,8 @@
 
 
 
+<!-- Graph Basic Functions -->
+### Graph Basic Functions
 
-
-
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculus_Graphs of Basic Functions_Slides.pdf"> Graph Basic Functions </a>
 
