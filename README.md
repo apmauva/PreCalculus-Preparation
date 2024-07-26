@@ -21,19 +21,41 @@
 <details>
  <summary>Table of Contents </summary>  
   <ol>
-
+ <li><a href="#graph-basic-functions">Graph Basic Functions</a></li>
+<li><a href="#transformations-of-graphs">Transformations of Graphs</a></li>
+<li><a href="#graphs-of-power-functions-gp">Graphs of Power Functions</a></li>
+    
  <li> <a href="#limit-at-discontinuity-lc">Limit at Discontinuity (LC)</a> </li> 
  <li><a href="#limit-to-infinity-lf">Limit at Infinity (LF)</a></li>
 <li><a href="#graph-exponential-functions-ge">Graph Exponential Functions (GE)</a></li>  
  <li><a href="#graph-logarithmic-functions-gl">Graph Logarithmic Functions (GL)</a></li>
- <li><a href="#graph-basic-functions">Graph Basic Functions</a></li>
+
   </ol>
 </details>
 
 
+<!-- Graph Basic Functions -->
+### Graph Basic Functions
+This unit provides the graphs for the basis functions which you see most often. The relevant learning targets are GE, GL, GP, and TG. 
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculus_Graphs of Basic Functions_Slides.pdf"> Graph Basic Functions </a>
+
+<!-- Transformations of Graphs-->
+### Transformations of Graphs
+This unit provides the transformations of graphs that are relevant learning targets GE, GL, GP, and TG. 
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculus_Transformation of Graphs._Slides.pdf"> Transformation of Graphs </a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet_Transformations of graphs.pdf">Transformations Worksheet</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Solutions_Worksheet_Transformations of graphs.pdf">Transformations Worksheet Solutions</a>
 
 
+<!-- Graphs of Power Functions-->
+###  Graphs of Power Functions-GP
+
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculus_Graph Power Functions_Slides.pdf"> GP Note </a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet_Graphs of power functions.pdf">GP Worksheet</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Solutions_Worksheet_Graphs of power functions.pdf">GP Worksheet Solutions</a>
 <!-- Limit at Discontinuity (Learning Target LC) -->
+
+
 ### Limit at Discontinuity-LC
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/notelc.pdf">LC Note</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/wslc.pdf">LC Worksheet</a>
@@ -60,8 +82,6 @@
 
 
 
-<!-- Graph Basic Functions -->
-### Graph Basic Functions
-This unit provide the graphs for the basis functions which you see most often. The relevant learning targets are GE, GL, GP, and TG. 
-* <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculus_Graphs of Basic Functions_Slides.pdf"> Graph Basic Functions </a>
+
+
 
