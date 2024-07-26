@@ -19,14 +19,14 @@
 
 <!-- List of Learning Targets -->
 <details>
- <summary>List of Learning Targets  </summary>  
+ <summary>Table of Contents </summary>  
   <ol>
 
  <li> <a href="#limit-at-discontinuity-lc">Limit at Discontinuity (LC)</a> </li> 
  <li><a href="#limit-to-infinity-lf">Limit at Infinity (LF)</a></li>
 <li><a href="#graph-exponential-functions-ge">Graph Exponential Functions (GE)</a></li>  
  <li><a href="#graph-logarithmic-functions-gl">Graph Logarithmic Functions (GL)</a></li>
-
+ <li><a href="#graph-basic-functions">Graph Basic Functions</a></li>
   </ol>
 </details>
 
@@ -62,6 +62,6 @@
 
 <!-- Graph Basic Functions -->
 ### Graph Basic Functions
-
+This unit provide the graphs for the basis functions which you see most often. The relevant learning targets are GE, GL, GP, GT. 
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculus_Graphs of Basic Functions_Slides.pdf"> Graph Basic Functions </a>
 
