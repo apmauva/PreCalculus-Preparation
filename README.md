@@ -62,6 +62,6 @@
 
 <!-- Graph Basic Functions -->
 ### Graph Basic Functions
-This unit provide the graphs for the basis functions which you see most often. The relevant learning targets are GE, GL, GP, GT. 
+This unit provide the graphs for the basis functions which you see most often. The relevant learning targets are GE, GL, GP, and TG. 
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculus_Graphs of Basic Functions_Slides.pdf"> Graph Basic Functions </a>
 
