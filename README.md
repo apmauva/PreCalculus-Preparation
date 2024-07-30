@@ -80,7 +80,7 @@ This unit provides the transformations of graphs that are relevant learning targ
 <!-- Limit at Infinity (Learning Target LF) -->
 ### Limit to Infinity-LF
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/notelf.pdf">LF Note</a>
-* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/wslf.pdf">LF Worksheet</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet_limit to infinity.pdf">LF Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/solutions-wslf.pdf">LF Worksheet Solutions</a>
 
 
