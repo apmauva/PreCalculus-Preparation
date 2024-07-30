@@ -23,7 +23,7 @@
   <ol>
  <li><a href="#graph-basic-functions">Graph Basic Functions</a></li>
 <li><a href="#transformations-of-graphs">Transformations of Graphs</a></li>
-<li><a href="#graphs-of-power-functions-gp">Graphs of Power Functions</a></li>
+<li><a href="#graphs-of-power-functions-gp">Graphs of Power Functions (GP)</a></li>
 <li><a href="#graph-exponential-functions-ge">Graph Exponential Functions (GE)</a></li>  
  <li><a href="#graph-logarithmic-functions-gl">Graph Logarithmic Functions (GL)</a></li>
  <li> <a href="#limit-at-discontinuity-lc">Limit at Discontinuity (LC)</a> </li> 
