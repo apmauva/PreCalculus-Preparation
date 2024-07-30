@@ -74,7 +74,7 @@ This unit provides the transformations of graphs that are relevant learning targ
 
 ### Limit at Discontinuity-LC
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/notelc.pdf">LC Note</a>
-* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/wslc.pdf">LC Worksheet</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet_limit at discontinuity.pdf">LC Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/solutions-wslc.pdf">LC Worksheet Solutions</a>
 
 <!-- Limit at Infinity (Learning Target LF) -->
