@@ -69,7 +69,7 @@ This unit provides the transformations of graphs that are relevant learning targ
 *  [ GL Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4f00887b-3e70-4ea6-be84-afef011050fe)
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet_Graphs of logarithmic functions.pdf">GL Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Solutions_Worksheet_Graphs of logarithmic functions.pdf"> GL Worksheet Solutions </a>
-*  [ Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4f00887b-3e70-4ea6-be84-afef011050fe)
+
 
 
 ### Limit at Discontinuity-LC
