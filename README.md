@@ -30,7 +30,7 @@
  <li><a href="#limit-to-infinity-lf">Limit at Infinity (LF)</a></li>
  <li><a href="#know-and-can-use-trigonometric-identities-td"> Know and Can Use Trigonometric Identities (TD)</a></li>
 <li><a href="#can-use-the-unit-circle-tu">Can Use the Unit Circle (TU) </a></li>
-<li><a href="can-determine-a-trigonometric-fucntion-value-t">Can Determine a Trigonometric Fucntion Value (T) </a></li>
+<li><a href="#can-determine-a-trigonometric-fucntion-value-t">Can Determine a Trigonometric Fucntion Value (T) </a></li>
   </ol>
 </details>
  
