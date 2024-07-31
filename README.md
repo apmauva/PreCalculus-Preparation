@@ -30,7 +30,7 @@
  <li><a href="#limit-to-infinity-lf">Limit at Infinity (LF)</a></li>
  <li><a href="#know-and-can-use-trigonometric-identities-td"> Know and Can Use Trigonometric Identities (TD)</a></li>
 <li><a href="#can-use-the-unit-circle-tu">Can Use the Unit Circle (TU) </a></li>
-<li><a href="#can-determine-a-trigonometric-fucntion-value-t">Can Determine a Trigonometric Fucntion Value (T) </a></li>
+<li><a href="#can-determine-a-trigonometric-function-value-t">Can Determine a Trigonometric Fucntion Value (T) </a></li>
   </ol>
 </details>
  
@@ -101,8 +101,8 @@ This unit provides the transformations of graphs that are relevant learning targ
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-TU-Solutions.pdf">TU Worksheet Solutions</a>
 
 
-<!--Can Determine a Trigonometric Fucntion Value (Learning Target T) -->
-###  Can Determine a Trigonometric Fucntion Value-T
+<!--Can Determine a Trigonometric Function Value (Learning Target T) -->
+###  Can Determine a Trigonometric Function Value-T
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculusT_Handouts.pdf">T Note</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-T.pdf">T Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-T-Solutions.pdf">T Worksheet Solutions</a>
