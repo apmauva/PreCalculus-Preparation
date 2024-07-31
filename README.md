@@ -28,6 +28,8 @@
  <li><a href="#graph-logarithmic-functions-gl">Graph Logarithmic Functions (GL)</a></li>
  <li> <a href="#limit-at-discontinuity-lc">Limit at Discontinuity (LC)</a> </li> 
  <li><a href="#limit-to-infinity-lf">Limit at Infinity (LF)</a></li>
+ <li><a href="#know-and-can-use-trigonometric-identities-td"> Know and Can Use Trigonometric Identities-TD</a></li>
+    
   </ol>
 </details>
 
@@ -84,6 +86,17 @@ This unit provides the transformations of graphs that are relevant learning targ
 
 
 
+<!-- Know and Can Use Trigonometric Identities (Learning Target TD) -->
+###  Know and Can Use Trigonometric Identities-TD
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculusTD_Slides.pdf">TD Note</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/worksheets/Worksheet-TD.pdf">TD Worksheet</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-TD-Solutions.pdf">TD Worksheet Solutions</a>
 
+
+<!-- Know and Can Use Trigonometric Identities (Learning Target TD) -->
+###  Know and Can Use Trigonometric Identities-TD
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculusTD_Slides.pdf">TD Note</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/worksheets/Worksheet-TD.pdf">TD Worksheet</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-TD-Solutions.pdf">TD Worksheet Solutions</a>
 
 
