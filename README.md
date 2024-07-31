@@ -19,7 +19,7 @@
 
 <!-- List of Learning Targets -->
 <details>
- <summary>Table of Contents </summary>  
+ <summary>List of Learning Targets</summary>  
   <ol>
  <li><a href="#graph-basic-functions">Graph Basic Functions</a></li>
 <li><a href="#transformations-of-graphs">Transformations of Graphs</a></li>
