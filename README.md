@@ -31,6 +31,9 @@
  <li><a href="#know-and-can-use-trigonometric-identities-td"> Know and Can Use Trigonometric Identities (TD)</a></li>
 <li><a href="#can-use-the-unit-circle-tu">Can Use the Unit Circle (TU) </a></li>
 <li><a href="#can-determine-a-trigonometric-function-value-t">Can Determine a Trigonometric Fucntion Value (T) </a></li>
+  <li><a href="#can-graph-trigonometric-functions-tg">Can Graph Trigonometric Functions (TG) </a></li> 
+<li><a href="#understand-function-inverses-i ">   Understand Function Inverses (I) </a></li>
+   
   </ol>
 </details>
  
@@ -44,7 +47,7 @@ This unit provides the graphs for the basis functions which you see most often. 
 ### Transformations of Graphs
 This unit provides the transformations of graphs that are relevant learning targets GE, GL, GP, and TG. 
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculus_Transformation of Graphs_Slides.pdf"> Transformation of Graphs Note </a>
-* [ Transformation of Graphs Note Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=32dd6442-924d-4f5a-ae98-b1c501254e38)
+* [ Transformation of Graphs Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=32dd6442-924d-4f5a-ae98-b1c501254e38)
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet_Transformations of graphs.pdf">Transformations of Graphs Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Solutions_Worksheet_Transformations of graphs.pdf">Transformations of Graphs Worksheet Solutions</a>
 
@@ -113,3 +116,18 @@ This unit provides the transformations of graphs that are relevant learning targ
 * [T Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=42c04959-be76-4dc0-bcce-b1c401240a87)
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-T.pdf">T Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-T-Solutions.pdf">T Worksheet Solutions</a>
+
+
+<!--Can Graph Trigonometric Functions (Learning Target TG) -->
+###  Can Graph Trigonometric Functions-TG
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculusTG_Handouts.pdf">TG Note</a>
+* [TG Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0764367e-a545-4c54-a5d0-b1c401240a8d)
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-TG.pdf">TG Worksheet</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-TG-Solutions.pdf">TG Worksheet Solutions</a>
+
+<!--Understand Function Inverses (Learning Target I) -->
+###  Understand Function Inverses-I 
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculusI_Handouts.pdf">I Note</a>
+* [I Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3b690294-4848-4c5d-8300-b1c401240a89)
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-I.pdf">I Worksheet</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-I-Solutions.pdf">I Worksheet Solutions</a>
