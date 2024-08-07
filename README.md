@@ -51,9 +51,7 @@ This unit provides the transformations of graphs that are relevant learning targ
 <!-- Graphs of Power Functions-->
 ###  Graphs of Power Functions-GP
 
-* <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculus_Graph Power Functions_Slides.pdf"> GP Note </a>
-
- &emsp <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet_GP.pdf">GP Worksheet</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculus_Graph Power Functions_Slides.pdf"> GP Note </a>&emsp; <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet_GP.pdf">GP Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Solutions_Worksheet_Graphs of power functions.pdf">GP Worksheet Solutions</a>
 <!-- Limit at Discontinuity (Learning Target LC) -->
 
