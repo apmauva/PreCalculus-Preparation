@@ -43,24 +43,26 @@ This unit provides the graphs for the basis functions which you see most often. 
 <!-- Transformations of Graphs-->
 ### Transformations of Graphs
 This unit provides the transformations of graphs that are relevant learning targets GE, GL, GP, and TG. 
-* <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculus_Transformation of Graphs_Slides.pdf"> Transformation of Graphs </a>
-* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet_Transformations of graphs.pdf">Transformations Worksheet</a>
-* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Solutions_Worksheet_Transformations of graphs.pdf">Transformations Worksheet Solutions</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculus_Transformation of Graphs_Slides.pdf"> Transformation of Graphs Note </a>
+* [ Transformation of Graphs Note Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=32dd6442-924d-4f5a-ae98-b1c501254e38)
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet_Transformations of graphs.pdf">Transformations of Graphs Worksheet</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Solutions_Worksheet_Transformations of graphs.pdf">Transformations of Graphs Worksheet Solutions</a>
 
 
 <!-- Graphs of Power Functions-->
 ###  Graphs of Power Functions-GP
 
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculus_Graph Power Functions_Slides.pdf"> GP Note </a>
+* [ GP Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f8f9dec5-df1a-4ff2-bd0e-b1c501254e61)
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet_GP.pdf">GP Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Solutions_Worksheet_Graphs of power functions.pdf">GP Worksheet Solutions</a>
-<!-- Limit at Discontinuity (Learning Target LC) -->
 
 
 
 <!-- Graph Exponential Functions (Learning Target GE) -->
 ### Graph Exponential Functions-GE
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculus_Graph-Exponential-Functions_Slides.pdf">GE Note</a>
+* [ GE Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7e356dae-46b2-4842-9850-b1c40126e6f9)
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet_Graphs of exponential functions.pdf">GE Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Solutions_Worksheet_Graphs of exponential functions.pdf"> GE Worksheet Solutions </a>
 
@@ -68,20 +70,22 @@ This unit provides the transformations of graphs that are relevant learning targ
 <!-- Graph Logarithmic Functions (Learning Target GL) -->
 ### Graph Logarithmic Functions-GL
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculus_Graph-Logarithmic-Functions_Slides.pdf">GL Note</a>
-*  [ GL Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4f00887b-3e70-4ea6-be84-afef011050fe)
+*  [ GL Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=deb46d66-6e60-421e-937d-b1c40126e713)
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet_Graphs of logarithmic functions.pdf">GL Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Solutions_Worksheet_Graphs of logarithmic functions.pdf"> GL Worksheet Solutions </a>
 
 
-
+<!-- Limit at Discontinuity (Learning Target LC) -->
 ### Limit at Discontinuity-LC
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculus_Limit at Discontinuity_Slides.pdf">LC Note</a>
+* [ LC Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1ced4dca-61c6-41da-bed9-b1c40126e70e)
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet_limit at discontinuity.pdf">LC Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Solutions_Worksheet_limit at discontinuity.pdf">LC Worksheet Solutions</a>
 
 <!-- Limit at Infinity (Learning Target LF) -->
 ### Limit to Infinity-LF
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculus_Limit-to-Infinity_Slides.pdf">LF Note</a>
+* [ LF Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=88a4e2ef-443a-4074-8aca-b1c40126e6fc)
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet_limit to infinity.pdf">LF Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Solutions_Worksheet_limit to infinity.pdf">LF Worksheet Solutions</a>
 
@@ -90,6 +94,7 @@ This unit provides the transformations of graphs that are relevant learning targ
 <!-- Know and Can Use Trigonometric Identities (Learning Target TD) -->
 ###  Know and Can Use Trigonometric Identities-TD
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculusTD_Handouts.pdf">TD Note</a>
+* [ TD Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c4ec044c-4e01-4d0a-8f54-b1c401240a94)
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-TD.pdf">TD Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-TD-Solutions.pdf">TD Worksheet Solutions</a>
 
@@ -97,6 +102,7 @@ This unit provides the transformations of graphs that are relevant learning targ
 <!--Can Use the Unit Circle (Learning Target TU) -->
 ###  Can Use the Unit Circle-TU
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculusTU_Handouts.pdf">TU Note</a>
+* [ TU Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b81869c0-944c-472b-bad9-b1c401240d61)
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-TU.pdf">TU Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-TU-Solutions.pdf">TU Worksheet Solutions</a>
 
@@ -104,5 +110,6 @@ This unit provides the transformations of graphs that are relevant learning targ
 <!--Can Determine a Trigonometric Function Value (Learning Target T) -->
 ###  Can Determine a Trigonometric Function Value-T
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculusT_Handouts.pdf">T Note</a>
+* [T Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=42c04959-be76-4dc0-bcce-b1c401240a87)
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-T.pdf">T Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-T-Solutions.pdf">T Worksheet Solutions</a>
