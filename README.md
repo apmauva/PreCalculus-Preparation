@@ -31,9 +31,15 @@
  <li><a href="#know-and-can-use-trigonometric-identities-td"> Know and Can Use Trigonometric Identities (TD)</a></li>
 <li><a href="#can-use-the-unit-circle-tu">Can Use the Unit Circle (TU) </a></li>
 <li><a href="#can-determine-a-trigonometric-function-value-t">Can Determine a Trigonometric Fucntion Value (T) </a></li>
-  <li><a href="#can-graph-trigonometric-functions-tg">Can Graph Trigonometric Functions (TG) </a></li> 
+  <li><a href="#can-graph-trigonometric-functions-tg">Can Graph Trigonometric Functions (TG)  </a></li> 
 <li><a href="#understand-function-inverses-i ">   Understand Function Inverses (I) </a></li>
-   
+
+
+<li><a href="#can-solve-inequalities-n"> Can Solve Inequalities (N) </a></li>
+<li><a href="#can-solve-inequalities-that-include-absolute-value-na "> Can Solve Inequalities that Include Absolute Value (NA) </a></li>
+  <li><a href="#can-solve-equations-q">Can Solve Equations (Q)  </a></li> 
+<li><a href="#can-solve-equations-that-include-absolute-value-qa ">  Can Solve Equations that Include Absolute Value (QA) </a></li>
+
   </ol>
 </details>
  
@@ -148,7 +154,7 @@ This unit provides the transformations of graphs that are relevant learning targ
 <!--Can Solve Equations (Learning Target Q) -->
 ###  Can Solve Equations-Q
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/Slides_Q.pdf">Q Note</a>
-* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/worksheets/WS_Q_blank.pdf">Q Worksheet</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/WS_Q_blank.pdf">Q Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/WS_Q_soln.pdf">Q Worksheet Solutions</a>
 
 
