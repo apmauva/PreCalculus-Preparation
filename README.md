@@ -141,6 +141,7 @@ This unit provides the transformations of graphs that are relevant learning targ
 <!--Can Solve Inequalities (Learning Target N) -->
 ###  Can Solve Inequalities-N
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/Slides_N.pdf">N Note</a>
+* [ N Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0ab73c0d-8390-4b81-bbc8-b1c600f3f7ab)
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/WS_N_blank.pdf">N Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/WS_N_soln.pdf">N Worksheet Solutions</a>
 
@@ -148,6 +149,7 @@ This unit provides the transformations of graphs that are relevant learning targ
 <!--Can Solve Inequalities that Include Absolute Value (Learning Target NA) -->
 ###  Can Solve Inequalities that Include Absolute Value-NA
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/Slides_NA.pdf">NA Note</a>
+* [ NA Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=61e749f9-c2b0-4ca9-b814-b1c600fd57f4)
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/WS_NA_blank.pdf">NA Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/WS_NA_soln.pdf">NA Worksheet Solutions</a>
 
@@ -161,6 +163,7 @@ This unit provides the transformations of graphs that are relevant learning targ
 <!--Can Solve Equations that Include Absolute Value (Learning Target QA) -->
 ###  Can Solve Equations that Include Absolute Value-QA
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/Slides_QA.pdf">QA Note</a>
+* [ QA Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e57964e0-61e1-4461-ae14-b1c600f8a73e)
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/WS_QA_blank.pdf">QA Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/WS_QA_soln.pdf">QA Worksheet Solutions</a>
 
