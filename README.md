@@ -131,3 +131,30 @@ This unit provides the transformations of graphs that are relevant learning targ
 * [I Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3b690294-4848-4c5d-8300-b1c401240a89)
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-I.pdf">I Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-I-Solutions.pdf">I Worksheet Solutions</a>
+
+<!--Can Solve Inequalities (Learning Target N) -->
+###  Can Solve Inequalities-N
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/Slides_N.pdf">N Note</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/WS_N_blank.pdf">N Worksheet</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/WS_N_soln.pdf">N Worksheet Solutions</a>
+
+
+<!--Can Solve Inequalities that Include Absolute Value (Learning Target NA) -->
+###  Can Solve Inequalities that Include Absolute Value-NA
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/Slides_NA.pdf">NA Note</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/WS_NA_blank.pdf">NA Worksheet</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/WS_NA_soln.pdf">NA Worksheet Solutions</a>
+
+<!--Can Solve Equations (Learning Target Q) -->
+###  Can Solve Equations-Q
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/Slides_Q.pdf">Q Note</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/worksheets/WS_Q_blank.pdf">Q Worksheet</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/WS_Q_soln.pdf">Q Worksheet Solutions</a>
+
+
+<!--Can Solve Equations that Include Absolute Value (Learning Target QA) -->
+###  Can Solve Equations that Include Absolute Value-QA
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/Slides_QA.pdf">QA Note</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/WS_QA_blank.pdf">QA Worksheet</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/WS_QA_soln.pdf">QA Worksheet Solutions</a>
+
