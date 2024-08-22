@@ -172,13 +172,6 @@ This unit provides the transformations of graphs that are relevant learning targ
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-P-Solutions.pdf">P Worksheet Solutions</a>
 
 
-<!--Can Solve Inequalities (Learning Target N) -->
-###  Can Solve Inequalities-N
-* <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/Slides_N.pdf">N Note</a>
-* [ N Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0ab73c0d-8390-4b81-bbc8-b1c600f3f7ab)
-* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/WS_N_blank.pdf">N Worksheet</a>
-* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/WS_N_soln.pdf">N Worksheet Solutions</a>
-
 
 <!--Can Solve Inequalities (Learning Target N) -->
 ###  Can Solve Inequalities-N
