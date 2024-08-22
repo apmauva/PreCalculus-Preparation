@@ -59,7 +59,7 @@ This unit provides the graphs for the basis functions which you see most often. 
 
 <!-- Transformations of Graphs-->
 ### Transformations of Graphs
-This unit provides the transformations of graphs that are relevant learning targets GE, GL, GP, and TG. 
+This unit provides the transformations of graphs that are relevant to the learning targets GE, GL, GP, and TG. 
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculus_Transformation of Graphs_Slides.pdf"> Transformation of Graphs Note </a>
 * [ Transformation of Graphs Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=32dd6442-924d-4f5a-ae98-b1c501254e38)
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet_Transformations of graphs.pdf">Transformations of Graphs Worksheet</a>
