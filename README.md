@@ -24,6 +24,7 @@
  <li><a href="#graph-basic-functions">Graph Basic Functions</a></li>
 <li><a href="#transformations-of-graphs">Transformations of Graphs</a></li>
 <li><a href="#graphs-of-power-functions-gp">Graphs of Power Functions (GP)</a></li>
+  <li><a href="#can-use-laws-of-exponents-e ">Can Use Laws of Exponents (E)</a></li>
 <li><a href="#graph-exponential-functions-ge">Graph Exponential Functions (GE)</a></li>  
  <li><a href="#graph-logarithmic-functions-gl">Graph Logarithmic Functions (GL)</a></li>
  <li> <a href="#limit-at-discontinuity-lc">Limit at Discontinuity (LC)</a> </li> 
@@ -66,6 +67,12 @@ This unit provides the transformations of graphs that are relevant learning targ
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet_GP.pdf">GP Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Solutions_Worksheet_Graphs of power functions.pdf">GP Worksheet Solutions</a>
 
+
+<!-- Can Use Laws of Exponents (Learning Target E) -->
+### Can Use Laws of Exponents-E 
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculusE_Slides.pdf">E Note</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-E.pdf">E Worksheet</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-E-Solutions.pdf"> E Worksheet Solutions </a>
 
 
 <!-- Graph Exponential Functions (Learning Target GE) -->
