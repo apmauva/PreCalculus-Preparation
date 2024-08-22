@@ -25,7 +25,8 @@
 <li><a href="#transformations-of-graphs">Transformations of Graphs</a></li>
 <li><a href="#graphs-of-power-functions-gp">Graphs of Power Functions (GP)</a></li>
   <li><a href="#can-use-laws-of-exponents-e ">Can Use Laws of Exponents (E)</a></li>
-<li><a href="#graph-exponential-functions-ge">Graph Exponential Functions (GE)</a></li>  
+<li><a href="#graph-exponential-functions-ge">Graph Exponential Functions (GE)</a></li> 
+<li><a href="#can-use-laws-of-logs-l ">Can Use Laws of Logs (L)</a></li>
  <li><a href="#graph-logarithmic-functions-gl">Graph Logarithmic Functions (GL)</a></li>
  <li> <a href="#limit-at-discontinuity-lc">Limit at Discontinuity (LC)</a> </li> 
  <li><a href="#limit-to-infinity-lf">Limit at Infinity (LF)</a></li>
@@ -81,6 +82,13 @@ This unit provides the transformations of graphs that are relevant learning targ
 * [ GE Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7e356dae-46b2-4842-9850-b1c40126e6f9)
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet_Graphs of exponential functions.pdf">GE Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Solutions_Worksheet_Graphs of exponential functions.pdf"> GE Worksheet Solutions </a>
+
+
+<!-- Can Use Laws of Logs (Learning Target L) -->
+### Can Use Laws of Logs-E 
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculusL_Slides.pdf">L Note</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-L.pdf">L Worksheet</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-L-Solutions.pdf"> L Worksheet Solutions </a>
 
 
 <!-- Graph Logarithmic Functions (Learning Target GL) -->
