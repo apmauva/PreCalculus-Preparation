@@ -16,13 +16,9 @@
 </div>
 
 
-
-
 &nbsp;
 
-
 Alignments of the assessment problems and the learning targets: <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/Alignment.pdf"> click here </a>
-
 
 &nbsp;
 
