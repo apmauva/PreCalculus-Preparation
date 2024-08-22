@@ -79,7 +79,7 @@ This unit provides the transformations of graphs that are relevant learning targ
 ### Can Use Laws of Exponents-E 
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculusE_Slides.pdf">E Note</a>
 *  [ E Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bfbcbc44-fa32-4e87-8b19-b1d401570774)
-*  * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-E.pdf">E Worksheet</a>
+*   <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-E.pdf">E Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-E-Solutions.pdf"> E Worksheet Solutions </a>
 
 
