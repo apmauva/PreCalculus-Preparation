@@ -16,7 +16,8 @@
 </div>
 
 
-<!-- Alignments of the assessment problems and learning targets-->
+Alignments of the assessment problems and learning targets
+
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculus_Transformation of Graphs_Slides.pdf"> Transformation of Graphs Note </a>
 
 <!-- List of Learning Targets -->    
