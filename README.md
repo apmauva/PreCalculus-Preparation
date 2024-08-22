@@ -78,7 +78,8 @@ This unit provides the transformations of graphs that are relevant learning targ
 <!-- Can Use Laws of Exponents (Learning Target E) -->
 ### Can Use Laws of Exponents-E 
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculusE_Slides.pdf">E Note</a>
-* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-E.pdf">E Worksheet</a>
+*  [ E Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bfbcbc44-fa32-4e87-8b19-b1d401570774)
+*  * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-E.pdf">E Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-E-Solutions.pdf"> E Worksheet Solutions </a>
 
 
@@ -91,8 +92,9 @@ This unit provides the transformations of graphs that are relevant learning targ
 
 
 <!-- Can Use Laws of Logs (Learning Target L) -->
-### Can Use Laws of Logs-E 
+### Can Use Laws of Logs-L
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculusL_Slides.pdf">L Note</a>
+*  [ L Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=85b11c56-15bd-4104-8ad2-b1d40156ecb6)
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-L.pdf">L Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-L-Solutions.pdf"> L Worksheet Solutions </a>
 
@@ -162,12 +164,14 @@ This unit provides the transformations of graphs that are relevant learning targ
 <!--Can Simplify Expressions (Learning Target S) -->
 ###  Can Simplify Expressions-S
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculusS_Slides.pdf">S Note</a>
+* [ S Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ae480647-b6b5-42d5-a63d-b1d401571274)
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-S.pdf">S Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-S-Solutions.pdf">S Worksheet Solutions</a>
 
 <!--Can Perform Polynomial Division (Learning Target P) -->
 ###  Can Perform Polynomial Division-P
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculusP_Slides.pdf">P Note</a>
+* [ P Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4ad37f6a-ae93-462a-ad53-b1d40156fa1a)
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-P.pdf">P Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-P-Solutions.pdf">P Worksheet Solutions</a>
 
