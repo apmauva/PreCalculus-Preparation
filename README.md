@@ -35,8 +35,8 @@
 <li><a href="#can-determine-a-trigonometric-function-value-t">Can Determine a Trigonometric Fucntion Value (T) </a></li>
   <li><a href="#can-graph-trigonometric-functions-tg">Can Graph Trigonometric Functions (TG)  </a></li> 
 <li><a href="#understand-function-inverses-i ">   Understand Function Inverses (I) </a></li>
-
-
+<li><a href="#can-simplify-expressions-s ">Can Simplify Expressions (S) </a></li>
+<li><a href="#can-perform-polynomial-division-p "> Can Perform Polynomial Division (P) </a></li>
 <li><a href="#can-solve-inequalities-n"> Can Solve Inequalities (N) </a></li>
 <li><a href="#can-solve-inequalities-that-include-absolute-value-na "> Can Solve Inequalities that Include Absolute Value (NA) </a></li>
   <li><a href="#can-solve-equations-q">Can Solve Equations (Q)  </a></li> 
@@ -153,12 +153,35 @@ This unit provides the transformations of graphs that are relevant learning targ
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-I.pdf">I Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-I-Solutions.pdf">I Worksheet Solutions</a>
 
+<!--Can Simplify Expressions (Learning Target S) -->
+###  Can Simplify Expressions-S
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculusS_Slides.pdf">S Note</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-S.pdf">S Worksheet</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-S-Solutions.pdf">S Worksheet Solutions</a>
+
+<!--Can Perform Polynomial Division (Learning Target P) -->
+###  Can Perform Polynomial Division-P
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculusP_Slides.pdf">P Note</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-P.pdf">P Worksheet</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-P-Solutions.pdf">P Worksheet Solutions</a>
+
+
 <!--Can Solve Inequalities (Learning Target N) -->
 ###  Can Solve Inequalities-N
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/Slides_N.pdf">N Note</a>
 * [ N Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0ab73c0d-8390-4b81-bbc8-b1c600f3f7ab)
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/WS_N_blank.pdf">N Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/WS_N_soln.pdf">N Worksheet Solutions</a>
+
+
+<!--Can Solve Inequalities (Learning Target N) -->
+###  Can Solve Inequalities-N
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/Slides_N.pdf">N Note</a>
+* [ N Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0ab73c0d-8390-4b81-bbc8-b1c600f3f7ab)
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/WS_N_blank.pdf">N Worksheet</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/WS_N_soln.pdf">N Worksheet Solutions</a>
+
+
 
 
 <!--Can Solve Inequalities that Include Absolute Value (Learning Target NA) -->
