@@ -198,6 +198,7 @@ This unit provides the transformations of graphs that are relevant to the learni
 ###  Can Solve Equations-Q
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/Slides_Q.pdf">Q Note</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/WS_Q_blank.pdf">Q Worksheet</a>
+* [ Q Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=590710ea-9628-4224-a94f-b1d5001e4b88)
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/WS_Q_soln.pdf">Q Worksheet Solutions</a>
 
 
