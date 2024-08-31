@@ -181,7 +181,7 @@ This unit provides the transformations of graphs that are relevant to the learni
 ###  Can Solve Inequalities-N
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/Slides_N.pdf">N Note</a>
 * [ N Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0ab73c0d-8390-4b81-bbc8-b1c600f3f7ab)
-* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/WS_N_blank.pdf">N Worksheet</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/WS_N_blank_corrected.pdf">N Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/WS_N_soln _corrected.pdf">N Worksheet Solutions</a>
 
 
