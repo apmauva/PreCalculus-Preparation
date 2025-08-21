@@ -229,7 +229,7 @@ This unit provides the transformations of graphs that are relevant to the learni
 
 <!--Some frequently misinterpreted examples -->
 ###  Some frequently misinterpreted examples
-For html files, please download them as html file to your local disk. In this way, you can click "Solution" to view the work process. 
+For html files, please download them as html file to your local disk. In this way, you can click "Solution" or "Answer" to view the work process. 
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Problems/Q-18,-19--Solving_trig_equations.html"> Q18 and Q19-T, TD (html)</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Problems/Q-20--Validating_trig_identities.html"> Q20-TD (html)</a>
 
