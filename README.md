@@ -125,8 +125,10 @@ This unit provides the transformations of graphs that are relevant to the learni
 
 <!-- Know and Can Use Trigonometric Identities (Learning Target TD) -->
 ###  Know and Can Use Trigonometric Identities-TD
-* <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculusTD_Handouts.pdf">TD Note</a>
-* [ TD Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c4ec044c-4e01-4d0a-8f54-b1c401240a94)
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculusTD_Handouts.pdf">TD Note Part1</a>
+* [ TD Note Part 1 Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c4ec044c-4e01-4d0a-8f54-b1c401240a94)
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Notes/TD-MoreNotes_TrigIdentities.pdf">TD Note Part2</a>
+* [ TD Note Part 2 Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=879b8934-71b5-4ddd-955e-b340002a5edb)
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-TD.pdf">TD Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-TD-Solutions.pdf">TD Worksheet Solutions</a>
 
@@ -135,8 +137,8 @@ This unit provides the transformations of graphs that are relevant to the learni
 ###  Can Use the Unit Circle-TU
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculusTU_Handouts.pdf">TU Note</a>
 * [ TU Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b81869c0-944c-472b-bad9-b1c401240d61)
-* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-TU.pdf">TU Worksheet</a>
-* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-TU-Solutions.pdf">TU Worksheet Solutions</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Worksheets/TU-Worksheet---replaceFile.pdf">TU Worksheet</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Worksheets/TU-Worksheet-Solutions---replaceFile.pdf">TU Worksheet Solutions</a>
 
 
 <!--Can Determine a Trigonometric Function Value (Learning Target T) -->
