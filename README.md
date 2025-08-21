@@ -165,9 +165,10 @@ This unit provides the transformations of graphs that are relevant to the learni
 
 <!--Can Simplify Expressions (Learning Target S) -->
 ###  Can Simplify Expressions-S
-* <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculusS_Slides.pdf">S Note</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Notes/PreCalculus-S_Slides.pdf">S Note</a>
 * [ S Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ae480647-b6b5-42d5-a63d-b1d401571274)
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-S.pdf">S Worksheet</a>
+  
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-S-Solutions.pdf">S Worksheet Solutions</a>
 
 <!--Can Perform Polynomial Division (Learning Target P) -->
