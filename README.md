@@ -58,7 +58,7 @@ Alignments of the assessment problems and the learning targets: <a href="https:/
  <summary>Some frequently misinterpreted examples</summary>  
   <ol>
 
-<li><a href="#trigonometric-function-value-and-trig-identities-q18-q19-t-and-td"> Trigonometric Function Value and Trig identities Q18 Q19-T and TD </a></li>
+<li><a href="#some-frequently-misinterpreted-examples"> Some frequently misinterpreted examples </a></li>
 
   </ol>
 </details>
@@ -227,7 +227,8 @@ This unit provides the transformations of graphs that are relevant to the learni
 
 
 
-<!--Q18, Q19 in PA -->
-###   Trigonometric Function Value and Trig identities Q18 Q19-T and TD
-* <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Problems/Q-18,-19--Solving_trig_equations.html"> Q18 and Q19</a>
+<!--Some frequently misinterpreted examples -->
+###  Some frequently misinterpreted examples
+For html files, please download them as html file to your local disk. In this way, you can click "Solutions" to view the work process. 
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Problems/Q-18,-19--Solving_trig_equations.html"> Q18 and Q19-T, TD</a>
 
