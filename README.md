@@ -52,6 +52,36 @@ Alignments of the assessment problems and the learning targets: <a href="https:/
 </details>
  
 
+
+<!-- Some frequently misinterpreted examples -->    
+<details>
+ <summary>Some frequently misinterpreted examples</summary>  
+  <ol>
+ <li><a href="#graph-basic-functions">Graph Basic Functions</a></li>
+<li><a href="#transformations-of-graphs">Transformations of Graphs</a></li>
+<li><a href="#graphs-of-power-functions-gp">Graphs of Power Functions (GP)</a></li>
+  <li><a href="#can-use-laws-of-exponents-e ">Can Use Laws of Exponents (E)</a></li>
+<li><a href="#graph-exponential-functions-ge">Graph Exponential Functions (GE)</a></li> 
+<li><a href="#can-use-laws-of-logs-l ">Can Use Laws of Logs (L)</a></li>
+ <li><a href="#graph-logarithmic-functions-gl">Graph Logarithmic Functions (GL)</a></li>
+ <li> <a href="#limit-at-discontinuity-lc">Limit at Discontinuity (LC)</a> </li> 
+ <li><a href="#limit-to-infinity-lf">Limit at Infinity (LF)</a></li>
+ <li><a href="#know-and-can-use-trigonometric-identities-td"> Know and Can Use Trigonometric Identities (TD)</a></li>
+<li><a href="#can-use-the-unit-circle-tu">Can Use the Unit Circle (TU) </a></li>
+<li><a href="#can-determine-a-trigonometric-function-value-t">Can Determine a Trigonometric Fucntion Value (T) </a></li>
+  <li><a href="#can-graph-trigonometric-functions-tg">Can Graph Trigonometric Functions (TG)  </a></li> 
+<li><a href="#understand-function-inverses-i ">   Understand Function Inverses (I) </a></li>
+<li><a href="#can-simplify-expressions-s ">Can Simplify Expressions (S) </a></li>
+<li><a href="#can-perform-polynomial-division-p "> Can Perform Polynomial Division (P) </a></li>
+<li><a href="#can-solve-inequalities-n"> Can Solve Inequalities (N) </a></li>
+<li><a href="#can-solve-inequalities-that-include-absolute-value-na "> Can Solve Inequalities that Include Absolute Value (NA) </a></li>
+  <li><a href="#can-solve-equations-q">Can Solve Equations (Q)  </a></li> 
+<li><a href="#can-solve-equations-that-include-absolute-value-qa ">  Can Solve Equations that Include Absolute Value (QA) </a></li>
+
+  </ol>
+</details>
+
+
 <!-- Graph Basic Functions -->
 ### Graph Basic Functions
 This unit provides the graphs for the basis functions which you see most often. The relevant learning targets are GE, GL, GP, and TG. 
@@ -213,3 +243,11 @@ This unit provides the transformations of graphs that are relevant to the learni
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/WS_QA_blank.pdf">QA Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/WS_QA_soln.pdf">QA Worksheet Solutions</a>
 
+
+
+<!--Q18, Q19 in PA -->
+###   Trigonometric Function Value and Trig identities- T, TD
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/Slides_QA.pdf">QA Note</a>
+* [ QA Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e57964e0-61e1-4461-ae14-b1c600f8a73e)
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/WS_QA_blank.pdf">QA Worksheet</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/WS_QA_soln.pdf">QA Worksheet Solutions</a>
