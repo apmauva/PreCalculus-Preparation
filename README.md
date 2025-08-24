@@ -128,16 +128,19 @@ This unit provides the transformations of graphs that are relevant to the learni
 ### Limit at Discontinuity-LC
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculus_Limit at Discontinuity_Slides.pdf">LC Note</a>
 * [ LC Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1ced4dca-61c6-41da-bed9-b1c40126e70e)
-* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet_limit at discontinuity.pdf">LC Worksheet</a>
-* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Solutions_Worksheet_limit at discontinuity.pdf">LC Worksheet Solutions</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Worksheets/Worksheet_limit-at-discontinuity-part1.pdf">LC Worksheet1</a>
+  <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Worksheets/Worksheet_limit-at-discontinuity-part2.pdf">LC Worksheet2</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Worksheets/SolutionWorksheet_limit-at-discontinuity-part1.pdf">LC Worksheet1 Solutions</a>
+  <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Worksheets/SolutionWorksheet_limit-at-discontinuity-part2.pdf">LC Worksheet2 Solutions</a>
 
 <!-- Limit at Infinity (Learning Target LF) -->
 ### Limit to Infinity-LF
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculus_Limit-to-Infinity_Slides.pdf">LF Note</a>
 * [ LF Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=88a4e2ef-443a-4074-8aca-b1c40126e6fc)
-* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet_limit to infinity.pdf">LF Worksheet</a>
-* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Solutions_Worksheet_limit to infinity.pdf">LF Worksheet Solutions</a>
-
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Worksheets/Worksheet_limit-to-infinity-part1.pdf">LF Worksheet1</a>
+  <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Worksheets/Worksheet_limit-to-infinity-part2.pdf">LF Worksheet2</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Worksheets/SolutionWorksheet_limit-to-infinity-part1.pdf">LF Worksheet1 Solutions</a>
+  <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Worksheets/SolutionWorksheet_limit-to-infinity-part2.pdf">LF Worksheet2 Solutions</a>
 
 
 <!-- Know and Can Use Trigonometric Identities (Learning Target TD) -->
@@ -162,8 +165,11 @@ This unit provides the transformations of graphs that are relevant to the learni
 ###  Can Determine a Trigonometric Function Value-T
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculusT_Handouts.pdf">T Note</a>
 * [T Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=42c04959-be76-4dc0-bcce-b1c401240a87)
-* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-T.pdf">T Worksheet</a>
-* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-T-Solutions.pdf">T Worksheet Solutions</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-T.pdf">T Worksheet1</a>
+  <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Worksheets/Worksheet_T_inverse T value.pdf">T Worksheet2</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-T-Solutions.pdf">T Worksheet1 Solutions</a>
+  <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Worksheets/Worksheet_T_inverse_T_value-solns.pdf">T Worksheet2 Solutions</a>
+
 
 
 <!--Can Graph Trigonometric Functions (Learning Target TG) -->
