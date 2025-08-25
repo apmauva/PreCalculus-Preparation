@@ -186,6 +186,8 @@ This unit provides the transformations of graphs that are relevant to the learni
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-I.pdf">I Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-I-Solutions.pdf">I Worksheet Solutions</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculus_Inverse Trig Domain and Range_Slides.pdf"> Inverse Trig Note </a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Worksheets/Worksheet_T_inverse-T-domain and range.pdf">Inverse Trig Worksheet</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Worksheets/Worksheet_T_inverse-T-domain_and_range-solns.pdf">Inverse Trig  Worksheet Solutions</a>
 
 
 <!--Can Simplify Expressions (Learning Target S) -->
