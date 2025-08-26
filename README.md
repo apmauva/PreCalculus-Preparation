@@ -110,8 +110,8 @@ This unit provides the transformations of graphs that are relevant to the learni
 
 <!-- Can Use Laws of Logs (Learning Target L) -->
 ### Can Use Laws of Logs-L
-* <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculusL_Slides.pdf">L Note</a>
-*  [ L Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=85b11c56-15bd-4104-8ad2-b1d40156ecb6)
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Notes/precalc_L_slides.pdf">L Note</a>
+*  [ L Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a3046f47-71b6-41fb-9f1a-b34501372ff6)
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Worksheets/WS_L_blank.pdf">L Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Worksheets/WS_L_sol.pdf"> L Worksheet Solutions </a>
 
@@ -225,16 +225,16 @@ This unit provides the transformations of graphs that are relevant to the learni
 
 <!--Can Solve Equations (Learning Target Q) -->
 ###  Can Solve Equations-Q
-* <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/Slides_Q.pdf">Q Note</a>
-* [ Q Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=590710ea-9628-4224-a94f-b1d5001e4b88)
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Notes/Q_slides.pdf">Q Note</a>
+* [ Q Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?pid=1ef16d7c-edb5-4b01-b231-b34501378c21)
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Worksheets/Q_WSblank.pdf">Q Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Worksheets/Q_WSsol.pdf">Q Worksheet Solutions</a>
 
 
 <!--Can Solve Equations that Include Absolute Value (Learning Target QA) -->
 ###  Can Solve Equations that Include Absolute Value-QA
-* <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/Slides_QA.pdf">QA Note</a>
-* [ QA Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e57964e0-61e1-4461-ae14-b1c600f8a73e)
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Notes/QA_Slides.pdf">QA Note</a>
+* [ QA Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?pid=4aa37655-ca0c-4c84-bfc9-b3450137fa8e)
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Worksheets/QA_WS blank.pdf">QA Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Worksheets/QA_WS_ sol.pdf">QA Worksheet Solutions</a>
 
