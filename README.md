@@ -53,16 +53,16 @@ Alignments of the assessment problems and the learning targets: <a href="https:/
  
 
 
-# <!-- Some frequently misinterpreted examples -->    
-# <details>
-# <summary>Some frequently misinterpreted examples</summary>  
-#  <ol>
+#<!-- Some frequently misinterpreted examples -->    
+#<details>
+#<summary>Some frequently misinterpreted examples</summary>  
+#<ol>
 
-# <li><a href="#some-frequently-misinterpreted-examples"> Some frequently misinterpreted examples </a></li>
+#<li><a href="#some-frequently-misinterpreted-examples"> Some frequently misinterpreted examples </a></li>
 
-#  </ol>
-# </details>
-=
+#</ol>
+#</details>
+
 
 
 &nbsp;
