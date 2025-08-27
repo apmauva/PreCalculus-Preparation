@@ -52,7 +52,7 @@ Alignments of the assessment problems and the learning targets: <a href="https:/
 </details>
  
 
-
+ <!-- 
 <!-- Some frequently misinterpreted examples -->    
 <details>
  <summary>Some frequently misinterpreted examples</summary>  
@@ -62,7 +62,7 @@ Alignments of the assessment problems and the learning targets: <a href="https:/
 
   </ol>
 </details>
-
+-->
 
 
 &nbsp;
@@ -243,10 +243,10 @@ This unit provides the transformations of graphs that are relevant to the learni
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Worksheets/QA_WS_ sol.pdf">QA Worksheet Solutions</a>
 
 
-
+ <!-- 
 <!--Some frequently misinterpreted examples -->
 ###  Some frequently misinterpreted examples
 For html files, please download them as html file to your local disk. In this way, you can click "Solution" or "Answer" to view the work process. 
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Problems/Q-18,-19--Solving_trig_equations.html"> Q18 and Q19-T, TD (html)</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Problems/Q-20--Validating_trig_identities.html"> Q20-TD (html)</a>
-
+-->
