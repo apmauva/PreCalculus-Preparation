@@ -50,13 +50,7 @@ Alignments of the assessment problems and the learning targets: <a href="https:/
 
   </ol>
 </details>
- 
 
-
-
-
-
-&nbsp;
 
 &nbsp;
 
