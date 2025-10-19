@@ -135,7 +135,7 @@ This unit provides the transformations of graphs that are relevant to the learni
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Notes/TD-MoreNotes_TrigIdentities.pdf">TD Note Part2</a>
 * [ TD Note Part 2 Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=879b8934-71b5-4ddd-955e-b340002a5edb)
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-TD.pdf">TD Worksheet1</a>  &nbsp;&nbsp; <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Worksheets/TD--Practice_Validating_Identities.pdf">TD Worksheet2</a>   &nbsp;&nbsp; <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Worksheets/T,-TD--Practice_Solving_trig.pdf">TD Worksheet3</a> 
-* <a href="https://apmauva.github.io/PreCalculusPreparation/worksheets/Worksheet-TD-Solutions.pdf">TD Worksheet1 Solutions</a>  &nbsp;&nbsp; <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Worksheets/TD--Practice_Validating_Identities--Solutions.pdf">TD Worksheet2 Solutions</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-TD-Solutions.pdf">TD Worksheet1 Solutions</a>  &nbsp;&nbsp; <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Worksheets/TD--Practice_Validating_Identities--Solutions.pdf">TD Worksheet2 Solutions</a>
 &nbsp;&nbsp; <a href="https://apmauva.github.io/PreCalculus-Preparation/2025Revision/Worksheets/T,-TD--Practice_Solving_trig--Solutions.pdf">TD Worksheet3 Solutions</a>
 * 
 
