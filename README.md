@@ -188,7 +188,8 @@ This unit provides the transformations of graphs that are relevant to the learni
 
 <!--Can Perform Polynomial Division (Learning Target P) -->
 ###  Can Perform Polynomial Division-P
-* <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculusP_Slides2026.pdf">P Note</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/PreCalculusP_Slides.pdf">P Note</a>
+* <a href="https://apmauva.github.io/PreCalculus-Preparation/notes/notes/PreCalculusP_Slides2026.pdf">P Note</a>
 * [ P Note Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4ad37f6a-ae93-462a-ad53-b1d40156fa1a)
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-P.pdf">P Worksheet</a>
 * <a href="https://apmauva.github.io/PreCalculus-Preparation/worksheets/Worksheet-P-Solutions.pdf">P Worksheet Solutions</a>
